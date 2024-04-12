@@ -1,19 +1,24 @@
-# Project Name
+# Charged
 
-Brief description of the project.
+It notifies the user when the phone is at 90% or above. It will sound an alarm telling the user that it is almost at full charge and needs to be unplugged. Helpful for people that leave phones charging and unattended.
 
-## Table of Contents
+## How to Install
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+1. Download github code
+2. Download Android Studio
+3. Input code in Android Studio
+4. Connect Phone to computer (Make sure phone is in developer mode)
+5. Run the program
+6. Enjoy
 
-## Installation
+## How to Use
 
-Provide step-by-step instructions on how to install and set up your project. Include any prerequisites or dependencies.
+1. Open app
+2. Charge phone
+3. Leave the app open while phone is charging
+4. If the app makes a noise, it means the phone is fully charged
 
-```bash
-$ git clone https://github.com/your_username/your_project.git
-$ cd your_project
-$ npm install
+## Notion Link
+
+[Link to your Notion page for this project.](https://www.notion.so/Battery-Notifier-91d17689e73b43cb88acf7c07ebc8e21)
+
