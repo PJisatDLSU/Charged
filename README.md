@@ -19,7 +19,7 @@ Charged is an Android app that notifies the user when the phone's battery level 
 
 ## Notion Link
 
-[Link to your Notion page for this project.](https://www.notion.so/Battery-Notifier-91d17689e73b43cb88acf7c07ebc8e21){:target="_blank"}
+[Link to your Notion page for this project.](https://www.notion.so/Battery-Notifier-91d17689e73b43cb88acf7c07ebc8e21)
 
 
 
